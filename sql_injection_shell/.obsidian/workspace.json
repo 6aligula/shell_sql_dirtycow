@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "404664de2860533a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbcabfdd3e35445e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a4ba8c4af0072f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "escaneo de puertos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a0f3d662929e229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listar Vulnerabilidades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ad17df621b2ceae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compilar 32 bit debian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4c756baf5276b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listar Vulnerabilidades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75cf3f8307842778",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86b801ae41d1a19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1de1f1c858bc8c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c945bb63e5bc122",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1028477d416e1985",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a07b8056833b8cb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0393728ff789ec33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93f7400575c58417",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Compilar 32 bit debian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7f93ccda519c8df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Compilar 32 bit debian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a9e59556ddb4039",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef9b4004d8009d89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Compilar 32 bit debian.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7ad17df621b2ceae",
+  "lastOpenFiles": [
+    "Listar Vulnerabilidades.md",
+    "Compilar 32 bit debian.md",
+    "Planto el archivo en el servidor.md",
+    "escaneo de puertos.md",
+    "Pasted image 20240321173807.png"
+  ]
+}

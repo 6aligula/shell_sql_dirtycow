@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  exploit-compiler:
+    build: .
+    volumes:
+      - ./data:/src
+    working_dir: /src
