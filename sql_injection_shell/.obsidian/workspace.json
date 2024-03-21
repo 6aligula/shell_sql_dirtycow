@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "7ad17df621b2ceae",
+            "id": "9f4c756baf5276b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9f4c756baf5276b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Listar Vulnerabilidades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Listar Vulnerabilidades.md",
+                "file": "Compilar 32 bit debian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Listar Vulnerabilidades.md",
+                "file": "Compilar 32 bit debian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Listar Vulnerabilidades.md"
+                "file": "Compilar 32 bit debian.md"
               }
             }
           }
@@ -186,9 +174,9 @@
   "active": "9f4c756baf5276b6",
   "lastOpenFiles": [
     "Planto el archivo en el servidor.md",
-    "escaneo de puertos.md",
     "Listar Vulnerabilidades.md",
     "Compilar 32 bit debian.md",
+    "escaneo de puertos.md",
     "Pasted image 20240321173807.png"
   ]
 }
