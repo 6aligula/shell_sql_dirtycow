@@ -1,0 +1,2 @@
+comando para pasar de c a binario:
+gcc -m32 -pthread -o exploit dirtyc0w.c
